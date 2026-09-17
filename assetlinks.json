@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.dienisdavid_png.twa",
+        "sha256_cert_fingerprints": ["8A:0F:6A:D6:2F:4F:B4:AB:CA:79:AA:2E:3F:A0:10:AB:1D:E6:CD:9B:F4:2C:8F:E0:E2:25:8E:68:8F:82:3D:4F"]
+      }
+    }]
